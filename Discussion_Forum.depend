@@ -1,0 +1,37 @@
+# depslib dependency file v1.0
+1623922836 source:e:\kenil\daiict\semester-2\ds\project\discussion_forum\src\forum.cpp
+	"Forum.h"
+	<fstream>
+
+1623922785 e:\kenil\daiict\semester-2\ds\project\discussion_forum\include\forum.h
+	"bits/stdc++.h"
+
+1623925196 source:e:\kenil\daiict\semester-2\ds\project\discussion_forum\main.cpp
+	"bits/stdc++.h"
+	<iostream>
+	<cstring>
+	<fstream>
+	<windows.h>
+	<conio.h>
+	<stdlib.h>
+	<ctime>
+	"Forum.h"
+
+1623925196 source:c:\users\admin\downloads\quora-the-discussion-forum_202001405_202001432\discussion_forum\main.cpp
+	"bits/stdc++.h"
+	<iostream>
+	<cstring>
+	<fstream>
+	<windows.h>
+	<conio.h>
+	<stdlib.h>
+	<ctime>
+	"Forum.h"
+
+1623922785 c:\users\admin\downloads\quora-the-discussion-forum_202001405_202001432\discussion_forum\include\forum.h
+	"bits/stdc++.h"
+
+1623922836 source:c:\users\admin\downloads\quora-the-discussion-forum_202001405_202001432\discussion_forum\src\forum.cpp
+	"Forum.h"
+	<fstream>
+
